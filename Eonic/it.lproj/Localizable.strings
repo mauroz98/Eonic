@@ -1,0 +1,60 @@
+/* Minuti */
+"(Int(route!.expectedTravelTime / 60)) mins" = "(Int(route!.expectedTravelTime / 60)) min";
+
+/* Minuti */
+"(Int(route.expectedTravelTime / 60)) mins" = "(Int(route.expectedTravelTime / 60)) min ";
+
+/* Chiuso */
+"Closed" = "Chiuso";
+
+/* Chiuso-privato */
+"Closed • Private" = "Chiuso • Privato";
+
+/* Abitazione-chiuso */
+"Closed • Private Residence" = "Chiuso • Residenza Privata";
+
+/* Chiuso-pubblico */
+"Closed • Public" = "Chiuso • Pubblico";
+
+/* Fatto */
+"Done" = "Fatto";
+
+/* Compagnia sconosciuta */
+"Nearest to you" = "Più vicino";
+
+/* Aperto */
+"Operational" = "Aperto";
+
+/* Aperto-privato */
+"Operational • Private" = "Aperto • Privato";
+
+/* Abitazione-aperto */
+"Operational • Private Residence" = "Aperto • Residenza Privata";
+
+/* Aperto-pubblico */
+"Operational • Public" = "Aperto • Pubblico";
+
+/* Telefono non trovato */
+"Phone not Found" = "Telefono non Trovato";
+
+/* Privato • */
+"Private • " = "Privato • ";
+
+/* Abitazione Privata • */
+"Private Residence • " = "Residenza Privata • ";
+
+/* Pubblico • */
+"Public • " = "Pubblico • ";
+
+/* Descrizione telefono non trovato */
+"Sorry, this charge point doesn't have a phone number." = "Questo punto di ricarica non ha un numero di telefono";
+
+/* Compagnia sconosciuta */
+"Unknown Company" = "Compagnia sconosciuta";
+
+/* Plug Sconosciuto */
+"Unknown Plug" = "Plug Sconosciuto";
+
+/* Cap sconosciuto */
+"Unknown Postal Code/CAP" = "CAP Sconosciuto";
+
